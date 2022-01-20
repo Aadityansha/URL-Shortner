@@ -14,7 +14,14 @@ URL Shortner is a website that takes a URL in input and return the shortform of 
 </ul>
 
 <hr>
+
+
+### Screenshots
+
  
+![App Screenshot](https://aadityansha.github.io/URL-Shortner/images/Screenshot.png)
+
+<hr>
  
 View Project:
 <a href="https://aadityansha.github.io/URL-Shortner/" target="_blank">https://aadityansha.github.io/URL-Shortner/</a>
